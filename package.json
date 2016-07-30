@@ -1,0 +1,21 @@
+{
+    "name": "pokemon-korean",
+    "title": "Get Pokémon names in korean",
+    "description": "A simple json file with all pokemon",
+    "keywords": [
+        "pokemon",
+        "korean",
+        "names"
+    ],
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/oliver-j/pokemon-korean"
+    },
+    "author": {
+      "name": "oliver jessner",
+      "email": "oliver.jessner@gmail.com",
+      "url": "https://twitter.com/oliverj_net"
+    },
+    "license": "MIT"
+}
